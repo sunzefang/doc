@@ -10,3 +10,5 @@ I create a [github repository](https://github.com/guguji5/sync-fork-repo.git) to
 this line is for test the schedule that could run the sync shell at 8:00 am everyday.
 
 I will go crazy for the crontab task.
+
+the result is not what I expect.
