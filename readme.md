@@ -12,3 +12,5 @@ this line is for test the schedule that could run the sync shell at 8:00 am ever
 I will go crazy for the crontab task.
 
 the result is not what I expect.
+
+try it again.
