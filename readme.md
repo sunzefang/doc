@@ -15,4 +15,4 @@ the result is not what I expect.
 
 try it again.
 
-try it five more time.
+try it six more time.
